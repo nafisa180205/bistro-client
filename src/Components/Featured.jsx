@@ -19,7 +19,7 @@ const Featured = () => {
                     <p className='text-lg'>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Error voluptate facere, deserunt dolores maiores quod nobis quas quasi. Eaque repellat recusandae ad laudantium tempore consequatur consequuntur omnis ullam maxime tenetur.
                     </p>
-                    <button className='px-5 py-3 border-b-4 rounded-lg text-white border-white' >Read More</button>
+                    <button className='btn px-5 py-3 border-0 border-b-4 rounded-lg text-white border-white bg-transparent' >Read More</button>
                 </div>
             </div>
             </div>
